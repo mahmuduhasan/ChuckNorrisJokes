@@ -39,3 +39,12 @@ body {
   cursor: pointer;
   color: white;
 }
+
+#joke-category {
+  background-color: rgb(175, 127, 220);
+  border: none;
+  padding: 9px 29px;
+  border-radius: 10px;
+  cursor: pointer;
+  color: white;
+}
