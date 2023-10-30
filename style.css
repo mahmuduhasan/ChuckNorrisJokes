@@ -38,6 +38,7 @@ body {
   border-radius: 10px;
   cursor: pointer;
   color: white;
+  margin: 10px;
 }
 
 #joke-category {
@@ -47,4 +48,5 @@ body {
   border-radius: 10px;
   cursor: pointer;
   color: white;
+  margin: 10px;
 }
